@@ -1,0 +1,8 @@
+#pragma config "FOSC = INTOSCIO"
+#pragma config "WDTE = OFF"
+#pragma config "PWRTE = ON"
+#pragma config "MCLRE = OFF"
+#pragma config "BOREN = OFF"
+#pragma config "LVP = OFF"
+#pragma config "CPD = OFF"
+#pragma config "CP = OFF"
